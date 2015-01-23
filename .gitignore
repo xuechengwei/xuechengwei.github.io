@@ -1,0 +1,13 @@
+.sass-cache/
+.hg/
+.idea/
+.svn/
+.cache/
+.project/
+.DS_Store$
+.Trashes$
+.Spotlight-V100$
+.AppleDouble$
+.LSOverride$|/Icon$
+._.*$
+.pyc
